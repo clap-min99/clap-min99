@@ -1,4 +1,8 @@
-## Hi there 👋
+## SOOMIN GITHUB
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrtnals032)](https://solved.ac/qkrtnals032)
+
+
 
 <!--
 **clap-min99/clap-min99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
