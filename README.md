@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/XGBoost-EB5A46?style=flat-square"/>
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
