@@ -6,10 +6,6 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clap-min99&show_icons=true&theme=tokyonight)
-
 ### ✨Tech Stack✨
 🧩 Language
 <p>
